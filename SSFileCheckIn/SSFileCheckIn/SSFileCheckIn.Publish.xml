@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="C:\support\WebApplication\910SP4\Innovator\Client\customer\SSFileCheckIn\">
+    <file relUrl="bin/SSFileCheckIn.dll" publishTime="8/20/2009 12:12:54 PM" />
+    <file relUrl="bin/SSFileCheckIn.pdb" publishTime="8/20/2009 12:12:54 PM" />
+    <file relUrl="bin/IOM.dll" publishTime="2/27/2009 4:00:12 PM" />
+    <file relUrl="Default.aspx" publishTime="8/20/2009 12:10:05 PM" />
+    <file relUrl="Web.config" publishTime="8/20/2009 12:10:05 PM" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\TestServerSideCheckin\">
+    <file relUrl="bin/SSFileCheckIn.dll" publishTime="8/20/2009 12:12:54 PM" />
+    <file relUrl="bin/SSFileCheckIn.pdb" publishTime="8/20/2009 12:12:54 PM" />
+    <file relUrl="bin/IOM.dll" publishTime="2/27/2009 4:00:12 PM" />
+    <file relUrl="Default.aspx" publishTime="8/20/2009 12:10:05 PM" />
+    <file relUrl="Web.config" publishTime="8/20/2009 12:10:05 PM" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,6 @@
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\bin\SSFileCheckIn.dll
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\bin\SSFileCheckIn.pdb
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\bin\IOM.dll
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\obj\Debug\SSFileCheckIn.dll
+C:\Users\scoleman.ARAS-CORP\Documents\Visual Studio 2005\Projects\SSFileCheckIn\SSFileCheckIn\obj\Debug\SSFileCheckIn.pdb

@@ -41,10 +41,11 @@ WebRequest req = null;
 WebResponse rsp = null;
 
 //get logged on users login credentials
-Item userItem = inn.applySQL("select password, login_name from innovator.[user] where id='"+inn.getUserID()+"'"); 
 
-string userName = userItem.getProperty("login_name");
-string passMD5 = userItem.getProperty("password");
+System.Collections.Specialized.NameValueCollection myHeaders = HttpContext.Current.Request.Headers;
+
+string userName = myHeaders.Get("AUTHUSER").ToString();
+string passMD5 = myHeaders.Get("AUTHPASSWORD").ToString();
 
 //URL to your Innovator Sever
 string innURL = "http://localhost/InnovatorServer/Server/InnovatorServer.aspx"; 

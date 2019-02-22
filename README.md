@@ -1,3 +1,8 @@
+>## Archived Aras Community Project
+*This project has been migrated to GitHub from the old Aras Projects page (http://www.aras.com/projects). As an Archived project, this project is no longer being actively developed or maintained.*
+
+>*For current projects, please visit the new Aras Community Projects page on the updated Aras Community site: http://community.aras.com/projects*
+
 # Sample for Server Side File Check-in
 The sample provides a web page that can be used to create a new file Item from a file on the server
 
